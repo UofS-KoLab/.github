@@ -94,7 +94,6 @@ git@github.com-<your-repo-nickname>:<your-repository>.git
 git clone git@github.com-<your-repo-nickname>:<your-repository>.git
 ```
 
-
 ## Manners & Guidelines
 1. Cleanup after youself. Do regular cleanup of unnecessary materials and repositories in the organization.
 2. Always open pull requests to merge into the default (main) branch of repos.
