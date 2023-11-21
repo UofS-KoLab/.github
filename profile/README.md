@@ -53,12 +53,12 @@ ssh-ed25519 <long-string-of-characters> <your-user-nickname>_<your-repo-nickname
 ```
 3. Now log in to Github, and navigate to the settings page of your github repo. 
 4. Click on **Deploy Keys** from the left-hand menu. 
-![deploy-key-location](./images/deploy-key-location.jpg)
+![deploy-key-location](https://github.com/UofS-KoLab/.github/blob/main/profile/images/deploy-key-location.jpg?raw=true)
 1. Fill the form as shown and then press "Add Key".
 > [!NOTE]
 > It is advised that you use read-only deploy keys on the a40 server.
 
-![deploy-key-add-new](./images/deploy-key-add-new.jpg)
+![deploy-key-add-new](https://github.com/UofS-KoLab/.github/blob/main/profile/images/deploy-key-add-new.jpg?raw=true)
 
 ### 3. Setting up hosts on A40-server
 1. Once you've accessed the A40-server using Anydesk, open a terminal window and run the following commands one by one:  
