@@ -52,9 +52,9 @@ ssh-ed25519 <long-string-of-characters> <your-user-nickname>_<your-repo-nickname
 ```
 3. Now log in to Github, and navigate to the settings page of your github repo. 
 4. Click on **Deploy Keys** from the left-hand menu. 
-![deploy-key-location](./images/deploy-key-add-new.jpg)
-5. Fill the form as shown and then press "Add Key".
-![deploy-key-add-new](./images/deploy-key-location.jpg)
+![deploy-key-location](./images/deploy-key-location.jpg)
+1. Fill the form as shown and then press "Add Key".
+![deploy-key-add-new](./images/deploy-key-add-new.jpg)
 
 ### 3. Cloning your repo
 
