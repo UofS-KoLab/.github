@@ -17,8 +17,6 @@ Maintainer: M. Hamis Haider (hamis.haider@usask.ca)
 
 
 ## Deploying a repo on A40-Server
-> [!NOTE]
-> It is advised that you use read-only deploy keys on the a40 server.
 
 ### 1. Generating a deploy key
 Once you've accessed the A40-server using Anydesk, open a terminal window and run the following command:  
@@ -57,6 +55,9 @@ ssh-ed25519 <long-string-of-characters> <your-user-nickname>_<your-repo-nickname
 4. Click on **Deploy Keys** from the left-hand menu. 
 ![deploy-key-location](./images/deploy-key-location.jpg)
 1. Fill the form as shown and then press "Add Key".
+> [!NOTE]
+> It is advised that you use read-only deploy keys on the a40 server.
+
 ![deploy-key-add-new](./images/deploy-key-add-new.jpg)
 
 ### 3. Setting up hosts on A40-server
