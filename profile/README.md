@@ -79,7 +79,7 @@ HostName github.com-<your-repo-nickname>
 4. Press `Ctrl+X` to exit nano. Press `Y` afterwards to say yes to overwriting. Finally, press `ENTER` to save your modifications.
 
 ### 4. Cloning your repo.
-1. Cody the `ssh` link of your github repo. It should look something like this:
+1. Copy the `ssh` link of your github repo. It should look something like this:
 ```
 git@github.com:UofS-KoLab/<your-repository>.git
 ```
@@ -88,7 +88,7 @@ git@github.com:UofS-KoLab/<your-repository>.git
 git@github.com-<your-repo-nickname>:<your-repository>.git
 ```
 > [!NOTE]
-> The github.com-<your-repo-nickname> after the @ in the clone link, is the same as the `HostName` you have just set in the `~/.ssh/config` in the previous step.
+> The github.com-\<your-repo-nickname\> after the @ in the clone link, is the same as the `HostName` you have just set in the `~/.ssh/config` in the previous step.
 
 3. Clone your repo using the modified link through the command:
 ```
